@@ -31,6 +31,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-google_search_console_verification_file
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -51,3 +52,6 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+google_search_console:
+  verification_file_code: 2fb6197cb943a7b
