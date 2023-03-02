@@ -54,6 +54,3 @@ plugins:
 #   - vendor/ruby/
 
 google_analytics: G-MF3ZJQHD2M
-
-google_search_console:
-  verification_file_code: d2fb6197cb943a7b
