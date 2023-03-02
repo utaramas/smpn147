@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Selebrasi P5 Kurikulum Merdeka SMPN 147 Jakarta"
-date:   2023-02-24 02:00:00 +0000
+date:   2023-03-02 02:00:00 +0000
 author: "Marzuki"
 tags: SMPN 147 Cibubur Jakarta Timur
 ---
