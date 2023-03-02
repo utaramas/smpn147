@@ -53,3 +53,5 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+google_search_console:
+  verification_file_code: 2fb6197cb943a7b
