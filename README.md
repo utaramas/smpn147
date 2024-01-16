@@ -37,6 +37,8 @@ Untuk OP sell
 3. AO keluar pagar merah 
 4. Parabolic keluar dari atas
 
+======-------======
+
 ### Khusus pemilik akun FXPrimus yang masih leverage 1:500
 
 Khusus pemilik akun FXPrimus yang masih leverage 1:500 bisa mengirim email ke support@fxprimus.com
@@ -358,5 +360,14 @@ Hebatnya Hendra Hermawan sangat amanah walau banyak yang penasaran kaya apakah e
 Alhamdulillah, cinta Allah kepada saya, selalu dipermudah
 
 #tradingalanid
+
+<hr/>
+
+### Analisa BBMA Ala KG - Anggara
+
+Analisa BBMA Ala KG - Anggara.
+
+[https://t.me/analisabbmaalakg](https://t.me/analisabbmaalakg)
+[https://www.canva.com/design/DAF6DbmcTjU/vgRxKeCSo5cORHsYS8wJUA/view?utm_content=DAF6DbmcTjU&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.canva.com/design/DAF6DbmcTjU/vgRxKeCSo5cORHsYS8wJUA/view?utm_content=DAF6DbmcTjU&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 <hr/>
