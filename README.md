@@ -371,3 +371,61 @@ Analisa BBMA Ala KG - Anggara.
 [https://www.canva.com/design/DAF6DbmcTjU/vgRxKeCSo5cORHsYS8wJUA/view?utm_content=DAF6DbmcTjU&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.canva.com/design/DAF6DbmcTjU/vgRxKeCSo5cORHsYS8wJUA/view?utm_content=DAF6DbmcTjU&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 <hr/>
+
+### Belajar analisa swing.. sesuai petunjuk cikgu Umin Mukromin
+
+Weekly.. berlaku setup reentry
+Daily.. berlaku setup ext b dan diamond.. colek om Nay Zooe
+H4 .. ext lanjut proses mhv..
+
+trading plan.. mencari peluang sell, khususnya menunggu setup mhv sempurna dan csa di h4.. op sell saat reentry setelah csa terbentuk.. 
+
+cmiiw .. colek cikgu Ayah Miki PapahNya Eljuno Ivan Prasetya Willy Firmansyah Djayadi  dan yg lain..
+
+[https://www.facebook.com/groups/1546919442232231/permalink/1690322737891900/](https://www.facebook.com/groups/1546919442232231/permalink/1690322737891900/)
+
+<hr/>
+
+### Sambungan reentry daily,,semoga...momentum m15 untuk yakinkan diri entry
+
+Sambungan reentry daily,,semoga...momentum m15 untuk yakinkan diri entry.
+
+[https://www.facebook.com/groups/252296858250072/permalink/3573199289493129/](https://www.facebook.com/groups/252296858250072/permalink/3573199289493129/)
+
+<hr/>
+
+### Daily = reentry sell
+
+Daily = reentry sell
+h4 = extreme
+h1 = mhv
+
+pusing2 setup yg sama juga hari2 😘
+
+[https://www.facebook.com/groups/736036186528746/permalink/1703189233146765/](https://www.facebook.com/groups/736036186528746/permalink/1703189233146765/)
+
+<hr/>
+
+### GBPUSD
+
+D1 Reentry Buy
+H4 Extreme No Momentum
+H1 MHV Buy
+m15 Double Extreme Buy
+
+[https://www.facebook.com/BlackOutFX/videos/2067635680229243](https://www.facebook.com/BlackOutFX/videos/2067635680229243)
+
+<hr/>
+
+### Ijin post om om semua
+
+D1 reentry
+H4 extrem
+H1 mhv
+M15 setup complete
+
+Apa ini sudah benar analisa multi tf nya?
+
+[https://www.facebook.com/groups/252296858250072?multi_permalinks=3363165223829871](https://www.facebook.com/groups/252296858250072?multi_permalinks=3363165223829871)
+
+<hr/>
