@@ -64,7 +64,7 @@ Tf D1 pair GBP/CHF ni kelihatan setup reentry sell pertemuan 3 (Ma5,10 + Mid Bb)
 Saya guna indi practal ni untuk filter retracement lower high di D1 telah berakhir.
 
 Hari ini saya nampak ada peluang setup reentry sell di H4. 
-Untuk confirmation entry pula saya nak tunggu sehingga munculnya csak sell di H1. Selagi tak muncul, selagi tu price boleh naik lagi dan membatalkan setup reentry sell H4 ini.
+Untuk confirmation entry pula <u>saya nak tunggu sehingga munculnya csak sell di H1</u>. Selagi tak muncul, selagi tu price boleh naik lagi dan membatalkan setup reentry sell H4 ini.
 
 Stoploss di atas previous high H1.
 TP pula di Low Bb tf D1.
@@ -432,10 +432,10 @@ Apa ini sudah benar analisa multi tf nya?
 
 ### Reentry Daily D1 By Marzuki - 22 November 2023
 
-Sell dalam ZZL
+<b>Sell dalam ZZL</b>
 
 Price dibawah MA50
-Price menembus awan ichimoku
+Price menembus awan ichimoku, tenkan crossing kijun
 AO dibawah 0
 Break channel 2D Anggara
 Muncul Fractal D1
@@ -443,10 +443,10 @@ Muncul ZigzagFractalNoRepaint
 Muncul PSAR
 RSI dibawah 50
 
-Buy dalam ZZL
+<b>Buy dalam ZZL</b>
 
 Price diatas MA50
-Price menembus awan ichimoku
+Price menembus awan ichimoku, tenkan crossing kijun
 AO diatas 0
 Break channel 2D Anggara
 Muncul Fractal D1
@@ -454,10 +454,12 @@ Muncul ZigzagFractalNoRepaint
 Muncul PSAR
 RSI diatas 50
 
-Tambahan
+<b>Tambahan</b>
+
 M30 Niken
 H1 ATS
 H1 EagleVSA+Volume+SNR
 H1 Jim Brown Divergence
+
 
 <hr/>
