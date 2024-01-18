@@ -432,34 +432,33 @@ Apa ini sudah benar analisa multi tf nya?
 
 ### Reentry Daily D1 By Marzuki - 22 November 2023
 
-<b>Sell dalam ZZL</b>
+<b>Sell dalam ZZL.</b>
 
-Price dibawah MA50
-Price menembus awan ichimoku, tenkan crossing kijun
-AO dibawah 0
-Break channel 2D Anggara
-Muncul Fractal D1
-Muncul ZigzagFractalNoRepaint
-Muncul PSAR
-RSI dibawah 50
+Price dibawah MA50.
+Price menembus awan ichimoku, tenkan crossing kijun.
+AO dibawah 0.
+Break channel 2D Anggara.
+Muncul Fractal D1.
+Muncul ZigzagFractalNoRepaint.
+Muncul PSAR.
+RSI dibawah 50.
 
-<b>Buy dalam ZZL</b>
+<b>Buy dalam ZZL.</b>
 
-Price diatas MA50
-Price menembus awan ichimoku, tenkan crossing kijun
-AO diatas 0
-Break channel 2D Anggara
-Muncul Fractal D1
-Muncul ZigzagFractalNoRepaint
-Muncul PSAR
-RSI diatas 50
+Price diatas MA50.
+Price menembus awan ichimoku, tenkan crossing kijun.
+AO diatas 0.
+Break channel 2D Anggara.
+Muncul Fractal D1.
+Muncul ZigzagFractalNoRepaint.
+Muncul PSAR.
+RSI diatas 50.
 
-<b>Tambahan</b>
+<b>Tambahan.</b>
 
-M30 Niken
-H1 ATS
-H1 EagleVSA+Volume+SNR
-H1 Jim Brown Divergence
-
+M30 Niken.
+H1 ATS.
+H1 EagleVSA+Volume+SNR.
+H1 Jim Brown Divergence.
 
 <hr/>
