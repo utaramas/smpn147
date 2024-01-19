@@ -396,9 +396,9 @@ Sambungan reentry daily,,semoga...momentum m15 untuk yakinkan diri entry.
 
 ### Daily = reentry sell
 
-Daily = reentry sell
-h4 = extreme
-h1 = mhv
+1. Daily = reentry sell
+2. h4 = extreme
+3. h1 = mhv
 
 pusing2 setup yg sama juga hari2 😘
 
@@ -408,10 +408,10 @@ pusing2 setup yg sama juga hari2 😘
 
 ### GBPUSD
 
-D1 Reentry Buy
-H4 Extreme No Momentum
-H1 MHV Buy
-m15 Double Extreme Buy
+1. D1 Reentry Buy
+2. H4 Extreme No Momentum
+3. H1 MHV Buy
+4. m15 Double Extreme Buy
 
 [https://www.facebook.com/BlackOutFX/videos/2067635680229243](https://www.facebook.com/BlackOutFX/videos/2067635680229243)
 
@@ -419,10 +419,10 @@ m15 Double Extreme Buy
 
 ### Ijin post om om semua
 
-D1 reentry
-H4 extrem
-H1 mhv
-M15 setup complete
+1. D1 reentry
+2. H4 extrem
+3. H1 mhv
+4. M15 setup complete
 
 Apa ini sudah benar analisa multi tf nya?
 
@@ -434,31 +434,31 @@ Apa ini sudah benar analisa multi tf nya?
 
 <b>Sell dalam ZZL.</b>
 
-Price dibawah MA50.
-Price menembus awan ichimoku, tenkan crossing kijun.
-AO dibawah 0.
-Break channel 2D Anggara.
-Muncul Fractal D1.
-Muncul ZigzagFractalNoRepaint.
-Muncul PSAR.
-RSI dibawah 50.
+1. Price dibawah MA50.
+2. Price menembus awan ichimoku, tenkan crossing kijun.
+3. AO dibawah 0.
+4. Break channel 2D Anggara.
+5. Muncul Fractal D1.
+6. Muncul ZigzagFractalNoRepaint.
+7. Muncul PSAR.
+8. RSI dibawah 50.
 
 <b>Buy dalam ZZL.</b>
 
-Price diatas MA50.
-Price menembus awan ichimoku, tenkan crossing kijun.
-AO diatas 0.
-Break channel 2D Anggara.
-Muncul Fractal D1.
-Muncul ZigzagFractalNoRepaint.
-Muncul PSAR.
-RSI diatas 50.
+1. Price diatas MA50.
+2. Price menembus awan ichimoku, tenkan crossing kijun.
+3. AO diatas 0.
+4. Break channel 2D Anggara.
+5. Muncul Fractal D1.
+6. Muncul ZigzagFractalNoRepaint.
+7. Muncul PSAR.
+8. RSI diatas 50.
 
 <b>Tambahan.</b>
 
-M30 Niken.
-H1 ATS.
-H1 EagleVSA+Volume+SNR.
-H1 Jim Brown Divergence.
+1. M30 Niken.
+2. H1 ATS.
+3. H1 EagleVSA+Volume+SNR.
+4. H1 Jim Brown Divergence.
 
 <hr/>
