@@ -462,3 +462,15 @@ Apa ini sudah benar analisa multi tf nya?
 4. H1 Jim Brown Divergence.
 
 <hr/>
+
+### Reentry H4 By Marzuki - 26 Januari 2024
+
+Terinspirasi dari Nenty N (Grup FB BBMA Setup Advance), mencoba menambahkan beberapa nota.
+
+1. H4 ekor area re-entry.
+2. M5 csak, momentum, reject ma50, searah sama ichimoku, retest cb1.
+
+tambahan ?
+1. Ichimoku di bawah (tempat indikator RSI atau AO). E-book Rahsia Gabungan Teknik BBMA + ICHIMOKU KINKI HYO, oleh Alden. E-book berada di Telegram Diskusi Trader BBMA, sub kategori PDF BBMA Oma Ally.
+
+<hr/>
