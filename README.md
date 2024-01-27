@@ -474,3 +474,16 @@ tambahan ?
 1. Ichimoku di bawah (tempat indikator RSI atau AO). E-book Rahsia Gabungan Teknik BBMA + ICHIMOKU KINKI HYO, oleh Alden. E-book berada di Telegram Diskusi Trader BBMA, sub kategori PDF BBMA Oma Ally.
 
 <hr/>
+
+### Penyempurnaaan Reentry H4 By Marzuki - 28 Januari 2024
+
+Mencoba menambahkan beberapa indikator lain.
+
+1. FXDragunov EntryZone TF M5.
+2. FXDragunov BBMA.Autochartist.V5 TF M5.
+
+tambahan ?
+1. Harga akan retest Initial Break Fibo Musang, termasuk shadow.
+2. Perhatikan garis support resistance yang dibuat oleh indikator CB1 MT5. 
+
+<hr/>
