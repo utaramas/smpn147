@@ -482,8 +482,12 @@ Mencoba menambahkan beberapa indikator lain.
 1. FXDragunov EntryZone TF M5.
 2. FXDragunov BBMA.Autochartist.V5 TF M5.
 
-tambahan ?
+tambahan 1
 1. Harga akan retest Initial Break Fibo Musang, termasuk shadow.
 2. Perhatikan garis support resistance yang dibuat oleh indikator CB1 MT5. 
+
+tambahan 2
+1. Di M5, terjadi divergence awesome oscillator dan atau.
+2. Di M5, terjadi divergence stochastic oscillator & overbought/oversold.
 
 <hr/>
