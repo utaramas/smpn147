@@ -471,7 +471,22 @@ Terinspirasi dari Nenty N (Grup FB BBMA Setup Advance), mencoba menambahkan bebe
 2. M5 csak, momentum, reject ma50, searah sama ichimoku, retest cb1.
 
 tambahan ?
-1. Ichimoku di bawah (tempat indikator RSI atau AO). E-book Rahsia Gabungan Teknik BBMA + ICHIMOKU KINKI HYO, oleh Alden. E-book berada di Telegram Diskusi Trader BBMA, sub kategori PDF BBMA Oma Ally.
+1. Ichimoku di bawah (tempat indikator RSI atau AO). Judul asli E-book Rahsia Gabungan Teknik BBMA + ICHIMOKU KINKI HYO, oleh Alden. E-book berada di Telegram Diskusi Trader BBMA, sub kategori PDF BBMA Oma Ally. Nama file e-book "Teknik Bbma Oa + Ichimoku".
+
+buy
+1. Berlaku persilangan antara Taikun - Sen & Kaijun Sen. BUY - Bila line Taikun - Sen (Merah)berada diatas Kaijun - Sen (Biru) & Line HIJAU berada diatas.
+
+2. Setelah persilangan antara Taikun - Sen & Kaijun - Sen. Tunggu Candle retest Ma5,m10 low baru entry BUY.
+
+sell
+1. Berlaku persilangan antara Taikun - Sen & Kaijun Sen. SELL - Bila line Kaijun - Sen (Biru) berada diatas Taikun - Sen (Merah) & Line Hijau berada di bawah.
+
+2. Setelah persilangan antara Taikun - Sen & Kaijun - Sen. Tunggu Candle retest Ma5,m10 high baru entry SELL.
+
+KESIMPULAN:
+1. Gabungan BBMA + Ichimoku memberikan ketepatan hampir 100%. Disini saya ingin sarankan kepada anda untuk kaji & Fahami gabungan kedua-dua Teknik & Praktikan mengunakan DEMO ACCOUNT terlebih dahulu sebelum REAL ACCOUNT.
+
+2. Jika dilihat atau dianalisa ia memberikan keyakinan kepada anda untuk mendapat ENTRY yang amat tempat. Saya doakan anda semua terus Berjaya dalam BIDANG FOREX terutamanya.
 
 <hr/>
 
@@ -481,6 +496,7 @@ Mencoba menambahkan beberapa indikator lain.
 
 1. FXDragunov EntryZone TF M5.
 2. FXDragunov BBMA.Autochartist.V5 TF M5.
+3. Lihat tradingview indi Divergence for many indicators v4.
 
 tambahan 1
 1. Harga akan retest Initial Break Fibo Musang, termasuk shadow.
@@ -489,5 +505,69 @@ tambahan 1
 tambahan 2
 1. Di M5, terjadi divergence awesome oscillator dan atau.
 2. Di M5, terjadi divergence stochastic oscillator & overbought/oversold.
+
+<hr/>
+
+### BBMA Multi Time Frame - setup ReEntry CSAK - Faisal Izo - 28 Januari 2024
+
+Assalamualaikum..ok smlm sy share setup ReEntry CSAK BUY..ari ni sy share setup ReEntry CSAK SELL H4 DI USDJPY pula..bila muncul nye CSAK SELL..sy akan tggu dgn penuh SABAR SABAR SABAR SABAR SABAR 😂😂 utk REENTRY SELL DI MA HIGH..bila candle dah dekat dgn kwsn MA HIGH..sy akan buka TF H1 dan M15..
+
+- entry sell bhampiran/pada TOP BB H1
+- pastikan M15 ext/MHV
+- Wajib TP di LOW BB H4
+- refer di gmbr..ade sbb kenapa WAJIB TP DI LOW BB H4..sebab ape?sebab market nak reverse!!!ade sesuatu utk TF besar😉
+(Ada penerangan di setiap gambar di bawah)
+
+**SL dan TP anda boleh set ikut bsesuaian dgn margin anda..SL wajib ada..tapi kita boleh cutloss awal dgn munculnye momentum buy di H1..**
+
+Dimana BB berada disitu la TP😘😘😘
+
+***SILA BACKTEST! MARKING MARKING DAN MARKING TANPA JEMU..I'Allah anda akan lebih faham dan yakin***
+
+Semoga perkongsian ini dpt dimanfaatkan dan bermanfaat buat sahabat trader semua
+Ikhlas dr sy
+Izo
+
+<hr/>
+
+### Setup ReEntry ARAH KUKUH H4 - Time Frame H4 - 28 Januari 2024
+
+Assalamualaikum..ramai yg PM tnya setup ape sy guna dlm trading style sy..ok..mlm ni sy nk share salah 1 dari setup yg sy guna..Setup ReEntry ARAH KUKUH H4(Time Frame H4)..setup ni boleh guna kat mane2 pair..contoh gambar di pair EURUSD.
+
+1. tggu CSAK Buy/Sell muncul di H4(kene byk bsabar😉)
+2. ada arah..ada reentry..(sabar la tggu reentry..reentry la ditempat reentry= MA high/Low H4)
+3. TP1 adalah pada low/top BB(jangan nk harapkan ada momentum..nak tau adanya momentum atau tidak perlu refer TF BESAR
+4. xde momentum market reverse..sbb tu sy suruh tp di low/top bb..xkn nk tggu candle reverse baru nk TP..kurang la pip profit nnt..tu pun kalau sempat..silap2 reverse trus kne BE atau SL..kan rugi..ape2hal TP je di bb..😉
+
+Ok untuk contoh dlm gmbr adalah Setup CS ARAH KUKUH BUY H4 EURUSD..utk dptkn highest/lowest price utk buy/sell kene guna MTF(Multi Time Frame).
+
+MTF yg perlu guna utk setup ni adalah M15 dan H1.
+Untuk entry buy..
+
+- tggu price di kawasan LOW BB H1
+- dan PASTIKAN M15 EXTREME ATAU MHV
+*Candle smpai je low bb standby je utk buy..dan tgk m15 ext..kalau blum ext..jgn masuk lg..tggu ext bru masuk buy..kalau nk masuk trus di BB pun boleh jugak..xde mslh..
+
+***JIKA H1 buat MOMENTUM SELL SILA CUTLOSS TERUS TANPA SEGAN SILU..INI TANDA PERUBAHAN TREND***
+
+ADE SESUATU YANG DIA NK BUAT UTK TF BESAR LA TU..😉
+
+**Ade keterangan di setiap gmbr**
+
+AMARAN!!! Sila BACKTEST SETUP NI..MARKING MARKING DAN MARKING ANDA KAN NAMPAK LEBIH JELAS DAN LEBIH YAKIN BILA MARKET RUNNING😘😘😘
+Harap dimanfaatkan dan dipanjangkan😊
+Ikhlas dr sy
+Izo
+
+<hr/>
+
+### Korg yg baru blaja ni jgn la malas backtest - 28 Januari 2024
+
+aku sndri pun masih buat backtest lg tau~~~x ckp korg malas..cuma ckp jgn malas..tu je..jgn la mrh..😂
+1. Reentry Sell H4
+2. H4 @ MA HIGH
+3. H1 @ Top BB
+4. M15 EXT
+Izo
 
 <hr/>
