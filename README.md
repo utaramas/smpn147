@@ -506,6 +506,10 @@ tambahan 2
 1. Di M5, terjadi divergence awesome oscillator dan atau.
 2. Di M5, terjadi divergence stochastic oscillator & overbought/oversold.
 
+tambahan 3 - 30 Januari 2024 pair EU
+1. Perhatikan shadow candle H4 apakah reject MA50 ? Jgn OP lawan Tren H4.
+2. Perhatikan di H1 atau M30 terjadi MHV atau EXT, walaupun sudah break MA50 (bisa seperti tipuan). Jgn OP lawan Tren H4. 
+
 <hr/>
 
 ### BBMA Multi Time Frame - setup ReEntry CSAK - Faisal Izo - 28 Januari 2024
@@ -568,6 +572,7 @@ aku sndri pun masih buat backtest lg tau~~~x ckp korg malas..cuma ckp jgn malas.
 2. H4 @ MA HIGH
 3. H1 @ Top BB
 4. M15 EXT
+
 Izo
 
 <hr/>
