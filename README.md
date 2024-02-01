@@ -122,6 +122,64 @@ Divergence + Indicators.
 
 Bro JGV100 mainly menggunakan teknik ini dalam PAIR GU & EU.
 
+Update 31 Januari 2024.
+
+Indi CSR100 di H4, di pair EU.
+
+1. BBMAOA, berdekatan dengan CSM untuk break support & resistance, kemudian MHV untuk retest 1.
+2. Fibo Musang, berdekatan dengan area CB1 indi MT5 untuk break support & resistance, kemudian retest di line S&R.
+
+<hr/>
+
+### Femahaman csr100 dan daerah extream yang ada di Bbma
+
+Ni embah saya posting sedikit mengenai femahaman csr100 dan daerah extream yang ada di Bbma 😊. @csr100 ada pantulan yang hanya membuat PA (price acrion) dan masih bermain d arean SnR. Harga mantul2 beberapa kali sehingga membuat Retes 1 R2 R3 dan R4. Hal ini yg meyakinkan klo Gu akan terjun pauyung 😊. Yg saya fahami ketika BBMA membuat yg extream Selalu jatuh dengan femahamn bbma. Dan membuat dobble axtream beberapa kali d area yg sama. Dan untuk mengambil set yg cocok yaitu d area level resistance itu.... kurang lbih seperti ini embah Ayah Miki. Bila sya masih banyak salahnya dlm bbma. Memang lg belaajr dan mau bisa hehe. Man Jada Wajada.
+
+====================
+
+H4. Buat analisanya. Melihat kecenderungan trand. Dan tf kecil acuan op selerti m15 jadi hampir smaa kan smaa Bbma Embah Ayah Miki :D. Cuma bbma untuk nembak diarea yg sudah terbilang extream itu adalah paling tooop markotop... ciak ciak.
+
+====================
+
+Tambahan dari Marzuki, 31 Januari 2024
+
+Selain Extreme di M15, bisa juga berlaku MHV.
+
+====================
+
+Ruly Warsito, cuma 1 TF.
+
+S.O.P nya ya..
+1. Buka tf daily. 
+2. Cari extrem terdekat..
+3. Jika extrem sudah ad cari CSAK..
+4. OP d ma low aTau ma hi
+5. Tarik fibo dari csak
+6. TP di 261 ..
+7. Sl atau cutloss jika harga tembus extrem..
+
+https://m.facebook.com/groups/252296858250072/permalink/3533091750170550/
+
+S.o.p saya
+1. Buka tf h4..
+2. Extem .
+3. Csak
+4. op d ma 
+5. Tp d fibo 261
+
+S.o.p tetap sama..
+1. Tf daily..
+2. Extrem..
+3. Csak.. 
+4. Op d ma 
+5. Tp di fibo 261.
+
+====================
+
+Update 31 Januari 2024.
+
+Ada ide menggabungkan teknik Ruly Warsito, dengan CSR100 di line SBR/RBS. Kadang di H4 tidak muncul CSAK, maka turun ke H1. 
+
 <hr/>
 
 ### Ichimoku
