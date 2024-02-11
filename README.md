@@ -488,39 +488,6 @@ Apa ini sudah benar analisa multi tf nya?
 
 <hr/>
 
-### Reentry Daily D1 By Marzuki - 22 November 2023
-
-<b>Sell dalam ZZL.</b>
-
-1. Price dibawah MA50.
-2. Price menembus awan ichimoku, tenkan crossing kijun.
-3. AO dibawah 0.
-4. Break channel 2D Anggara.
-5. Muncul Fractal D1.
-6. Muncul ZigzagFractalNoRepaint.
-7. Muncul PSAR.
-8. RSI dibawah 50.
-
-<b>Buy dalam ZZL.</b>
-
-1. Price diatas MA50.
-2. Price menembus awan ichimoku, tenkan crossing kijun.
-3. AO diatas 0.
-4. Break channel 2D Anggara.
-5. Muncul Fractal D1.
-6. Muncul ZigzagFractalNoRepaint.
-7. Muncul PSAR.
-8. RSI diatas 50.
-
-<b>Tambahan.</b>
-
-1. M30 Niken.
-2. H1 ATS.
-3. H1 EagleVSA+Volume+SNR.
-4. H1 Jim Brown Divergence.
-
-<hr/>
-
 ### Reentry H4 By Marzuki - 26 Januari 2024
 
 Terinspirasi dari Nenty N (Grup FB BBMA Setup Advance), mencoba menambahkan beberapa nota.
@@ -632,5 +599,163 @@ aku sndri pun masih buat backtest lg tau~~~x ckp korg malas..cuma ckp jgn malas.
 4. M15 EXT
 
 Izo
+
+<hr/>
+
+### BBMA Multi TimeFrame SAMJO FX
+
+| TF 1 | TF 2 | TF 3 |
+|:-|:-|:-|
+| D1 RE-ENTRY | H4 EXT, Reject Top/Low BB, MHV dekat MA50, Stoch OB/OS | H1 EXT, lebih aman tunggu CSAK, Pecah CB/Dominant Break, Divergence AO/Stoch |
+
+<hr/>
+
+### BBMA Multi TimeFrame BBMA INdonesia
+
+| TF 1 | TF 2 | TF 3 |
+|:-|:-|:-|
+| D1 RE-ENTRY MMT | H4 Reject MA50 | H1 CSM |
+
+Boleh OP di CSAK TF 3 tapi agak riskan.
+
+Failed di TF 2 tembus MA50 atau Momentum Reverse.
+
+<hr/>
+
+### BBMA Multi TimeFrame - Kuasa Gandaan Forex - Rakan BBMA Anda
+
+REE SBR
+
+| TF 1 | TF 2 | TF 3 |
+|:-|:-|:-|
+| D1 RE-ENTRY MMT | H4 EXT, tunggu EXT ke 2 | H1 EXT |
+
+REM SBR
+
+| TF 1 | TF 2 | TF 3 |
+|:-|:-|:-|
+| D1 RE-ENTRY CSAK | H4 Reject TOP BB| H1 MHV/EXT |
+
+RRM + SBR
+
+| TF 1 | TF 2 | TF 3 |
+|:-|:-|:-|
+| D1 RE-ENTRY CSAK Grade C | H4 RE CS Terlajak | H1 MHV |
+
+Zone SBR berlaku di TF yang kedua.
+
+<hr/>
+
+### BBMA Multi TimeFrame - D1H4H1
+
+1
+
+| TF 1 | TF 2 | TF 3 |
+|:-|:-|:-|
+| D1 CSAK setelah melepasi MidBB | H4 MHV BuyZone Sharpshooter | H1 MMT |
+
+2
+
+| TF 1 | TF 2 | TF 3 |
+|:-|:-|:-|
+| D1 RE-ENTRY CSAK | H4 CSAK | H1 MMT |
+
+3
+
+| TF 1 | TF 2 | TF 3 |
+|:-|:-|:-|
+| D1 RE-ENTRY CSAK | H4 Reject MA50 | H1 MMT |
+
+4
+
+| TF 1 | TF 2 | TF 3 |
+|:-|:-|:-|
+| D1 RE-ENTRY MMT | H4 EXT | H1 MHV |
+
+5
+
+| TF 1 | TF 2 | TF 3 |
+|:-|:-|:-|
+| D1 RE-ENTRY MMT | H4 CSAK/MHV | H1 EXT |
+
+6
+
+| TF 1 | TF 2 | TF 3 |
+|:-|:-|:-|
+| D1 RE-ENTRY MMT | H4 EXT & Reject MA50 | H1 CSM Gak Valid |
+
+7
+
+| TF 1 | TF 2 | TF 3 |
+|:-|:-|:-|
+| D1 RE-ENTRY MMT | H4 RE | H1 CSM Gak Valid & MHV |
+
+<hr/>
+
+### BBMA Multi TimeFrame - Faisal Izo
+
+📈📈📈SETUP REENTRY DAILY- BBMA📉📉📉
+
+Bulan 4 aritu pernah share setup REENTRY H4..kali ni setup REENTRY DAILY plak..post lepas sy fokus 3 time frame..kali ni sy guna 2 TF je..make it simple..jgn pening2..YANG PENTING BASIC KENA FAHAM😘
+
+UNTUK REENTRY DAILY..biasenye sy guna D1 H4 dan H1..tp kali ni sy guna 2..iaitu D1 dan H4 je..yup 2 TF..cukup..1 tf pun org pening..lg nk guna 3?😄😄😄
+
+Basic BBMA..reentry sell di MA HIGH..reentry BUY di MA LOW
+Ada beberapa paten yg terjadi pada H4
+-rejection low/top BB
+-rejection EMA50
+-extreme BB mngembang
+-extreme BB mendatar
+Entry point sy di MA@BB@Extreme
+Ni la cara sy entry pucuk akar..100% guna bbma..xde indi lain..sekian..semoga bermanfaat..
+
+***Sila Backtest..marking marking marking, kaji dan fahamkan..😘***
+
+Kalau reentry arah kukuh..tp1 minimum MA..tp2 low/top bb..tp max folo trend tf ats atau smpai extreme.
+
+Izo
+
+[https://www.facebook.com/mfaisalizo/posts/pfbid02cneAHwqBoeUWrKRhZgViEZCRn96yEd5nF59RpMZfnhoGCSeoDkP3iPCtvpjTr5ql](https://www.facebook.com/mfaisalizo/posts/pfbid02cneAHwqBoeUWrKRhZgViEZCRn96yEd5nF59RpMZfnhoGCSeoDkP3iPCtvpjTr5ql)
+
+<hr/>
+
+### BBMA Ichimoku
+
+Entry yang cakep kalo dekat antara MidBB dengan MA50 terus ada awan Kumo. Awal & akhir trend ?
+
+H1 CS melepasi cloud.
+
+<hr/>
+
+### Reentry Daily D1 By Marzuki - 22 November 2023
+
+<b>Sell dalam ZZL.</b>
+
+1. Price dibawah MA50.
+2. Price menembus awan ichimoku, tenkan crossing kijun.
+3. AO dibawah 0.
+4. Break channel 2D Anggara.
+5. Muncul Fractal D1.
+6. Muncul ZigzagFractalNoRepaint.
+7. Muncul PSAR.
+8. RSI dibawah 50.
+
+<b>Buy dalam ZZL.</b>
+
+1. Price diatas MA50.
+2. Price menembus awan ichimoku, tenkan crossing kijun.
+3. AO diatas 0.
+4. Break channel 2D Anggara.
+5. Muncul Fractal D1.
+6. Muncul ZigzagFractalNoRepaint.
+7. Muncul PSAR.
+8. RSI diatas 50.
+
+<b>Tambahan.</b>
+
+1. M30 Niken.
+2. H1 ATS.
+3. H1 EagleVSA+Volume+SNR.
+4. H1 Jim Brown Divergence.
 
 <hr/>
