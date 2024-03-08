@@ -126,8 +126,8 @@ Update 31 Januari 2024.
 
 Indi CSR100 di H4, di pair EU.
 
-1. BBMAOA, berdekatan dengan CSM untuk break support & resistance, kemudian MHV untuk retest 1.
-2. Fibo Musang, berdekatan dengan area CB1 indi MT5 untuk break support & resistance, kemudian retest di line S&R.
+1 BBMAOA, berdekatan dengan CSM untuk break support & resistance, kemudian MHV untuk retest 1.
+2 Fibo Musang, berdekatan dengan area CB1 indi MT5 untuk break support & resistance, kemudian retest di line S&R.
 
 <hr/>
 
