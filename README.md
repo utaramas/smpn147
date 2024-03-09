@@ -8,34 +8,34 @@ Dasar Forex Trading Niken Tantyo Sudharmono.
 ======-------======
 
 Setting indikator. 
-1 Fractal : Standart.
-2 Stochastics : 15,5,5.
-3 AO : Standart.
-4 Parabolic SAR : standart.
+- Fractal : Standart.
+- Stochastics : 15,5,5.
+- AO : Standart.
+- Parabolic SAR : standart.
 
 Cara menentukan Op sesuaikan dengan urutan, tunggu lah hingga muncul sesuai dengan nomor dibawah ini.
 
-1 Fractal. 
-2 Stochastics.
-3 AO. 
-4 Parabolic SAR.
+- Fractal. 
+- Stochastics.
+- AO. 
+- Parabolic SAR.
 
 Untuk OP buy. 
 
-1 Fractal dibawah. 
-2 Stochs berada dibawah dan bersilang untuk naik keatas.
-3 AO keluar pagar hijau. 
-4 Titik parabolic SAR keluar dibawah.
+- Fractal dibawah. 
+- Stochs berada dibawah dan bersilang untuk naik keatas.
+- AO keluar pagar hijau. 
+- Titik parabolic SAR keluar dibawah.
 
 Tambahan. 
 Untuk Stochs : ada garis bawah dengan angka 20, dan garis atas 80, jika garis melebihi 80 (85, 90, keatas) maka sudah jenuh beli dan carilah signal sellnya . sebaliknya jika garis lebih sedikit dari 20 (15,10 dan dibawahnya) cari signal buy
 
 Untuk OP sell. 
 
-1 Fractal diatas candlestichs.
-2 Stochastics bersilang dari atas kebawah.
-3 AO keluar pagar merah. 
-4 Parabolic keluar dari atas.
+- Fractal diatas candlestichs.
+- Stochastics bersilang dari atas kebawah.
+- AO keluar pagar merah. 
+- Parabolic keluar dari atas.
 
 ======-------======
 
