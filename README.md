@@ -820,3 +820,10 @@ TF3 atau TF4 akan terjadi Divergence di Awesome Oscillator.
 Bisa berlaku untuk D1-H4-H1, lihat divergence di M30.
 
 <hr/>
+
+### BBMA OA & BBMA KG 8 Maret 2024
+
+- H4 Re-Entry BBMA OA.
+- H1 BBMA KG By Anggara, harga tertahan di line SMA 72.
+
+<hr/>
