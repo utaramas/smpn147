@@ -61,12 +61,6 @@ Deposit Deriv via Bank Lokal BRI BRIVA 3 Oktober 2023, namun sayang akun real De
 
 <hr/>
 
-### Fibo H1 BBMA KG ANGGARA PRAMUDITA
-
-Harga akan retest minimal pada level 78,6.
-
-<hr/>
-
 ### RE D1 BBMA Oma Ally Batal
 
 CS tidak bisa melepasi level Fibo 61,8 Daily kemarin.
@@ -804,6 +798,12 @@ Bisa berlaku untuk D1-H4-H1, lihat divergence di M30.
 
 - H4 Re-Entry BBMA OA.
 - H1 BBMA KG By Anggara, harga tertahan di line SMA 72.
+
+<hr/>
+
+### Fibo H1 BBMA KG ANGGARA PRAMUDITA
+
+Harga akan retest minimal pada level 78,6.
 
 <hr/>
 
