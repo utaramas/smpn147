@@ -122,29 +122,29 @@ Selain Extreme di M15, bisa juga berlaku MHV.
 Ruly Warsito, cuma 1 TF.
 
 S.O.P nya ya..
-1. Buka tf daily. 
-2. Cari extrem terdekat..
-3. Jika extrem sudah ad cari CSAK..
-4. OP d ma low aTau ma hi
-5. Tarik fibo dari csak
-6. TP di 261 ..
-7. Sl atau cutloss jika harga tembus extrem..
+- Buka tf daily. 
+- Cari extrem terdekat..
+- Jika extrem sudah ad cari CSAK..
+- OP d ma low aTau ma hi
+- Tarik fibo dari csak
+- TP di 261 ..
+- Sl atau cutloss jika harga tembus extrem..
 
 https://m.facebook.com/groups/252296858250072/permalink/3533091750170550/
 
 S.o.p saya
-1. Buka tf h4..
-2. Extem .
-3. Csak
-4. op d ma 
-5. Tp d fibo 261
+- Buka tf h4..
+- Extem .
+- Csak
+- op d ma 
+- Tp d fibo 261
 
 S.o.p tetap sama..
-1. Tf daily..
-2. Extrem..
-3. Csak.. 
-4. Op d ma 
-5. Tp di fibo 261.
+- Tf daily..
+- Extrem..
+- Csak.. 
+- Op d ma 
+- Tp di fibo 261.
 
 ====================
 
