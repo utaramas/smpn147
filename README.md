@@ -55,27 +55,6 @@ Bisa menggunakan bahasa Indonesia/Inggris
 
 <hr/>
 
-### REENTRY + FRACTAL
-
-Abdullah Fakhri, Assalamualaikum, REENTRY + FRACTAL. August 4 2023
-
-Tf D1 pair GBP/CHF ni kelihatan setup reentry sell pertemuan 3 (Ma5,10 + Mid Bb).
-
-Saya guna indi practal ni untuk filter retracement lower high di D1 telah berakhir.
-
-Hari ini saya nampak ada peluang setup reentry sell di H4. 
-Untuk confirmation entry pula <u>saya nak tunggu sehingga munculnya csak sell di H1</u>. Selagi tak muncul, selagi tu price boleh naik lagi dan membatalkan setup reentry sell H4 ini.
-
-Stoploss di atas previous high H1.
-TP pula di Low Bb tf D1.
-
-RRR sekitar 1 : 2 (Risk 0.5%, Reward 1%) #InsyaAlah 
-#BbmaOmaAlly
-#ReentryH4SetelahBerlakunyaReentryD1
-#1% BETTER
-
-<hr/>
-
 ### Deposit Deriv Via Bank Lokal
 
 Deposit Deriv via Bank Lokal BRI BRIVA 3 Oktober 2023, namun sayang akun real Deriv tidak bisa tersambung.
@@ -825,5 +804,34 @@ Bisa berlaku untuk D1-H4-H1, lihat divergence di M30.
 
 - H4 Re-Entry BBMA OA.
 - H1 BBMA KG By Anggara, harga tertahan di line SMA 72.
+
+<hr/>
+
+### REENTRY + FRACTAL
+
+Abdullah Fakhri, Assalamualaikum, REENTRY + FRACTAL. August 4 2023
+
+Tf D1 pair GBP/CHF ni kelihatan setup reentry sell pertemuan 3 (Ma5,10 + Mid Bb).
+
+Saya guna indi practal ni untuk filter retracement lower high di D1 telah berakhir.
+
+Hari ini saya nampak ada peluang setup reentry sell di H4. 
+Untuk confirmation entry pula <u>saya nak tunggu sehingga munculnya csak sell di H1</u>. Selagi tak muncul, selagi tu price boleh naik lagi dan membatalkan setup reentry sell H4 ini.
+
+Stoploss di atas previous high H1.
+TP pula di Low Bb tf D1.
+
+RRR sekitar 1 : 2 (Risk 0.5%, Reward 1%) #InsyaAlah 
+#BbmaOmaAlly
+#ReentryH4SetelahBerlakunyaReentryD1
+#1% BETTER
+
+<hr/>
+
+### Modifikasi Teori Abdullah Fakhri - BBMA OA 11 Maret 2024
+
+- H4 Re-Entry BBMA OA + Fractal.
+- H1 Reject MA50.
+- M15 Retest CSAK + Fractal + MACD Melepasi 0
 
 <hr/>
