@@ -835,3 +835,10 @@ RRR sekitar 1 : 2 (Risk 0.5%, Reward 1%) #InsyaAlah
 - M15 Retest CSAK + Fractal + MACD Melepasi 0
 
 <hr/>
+
+### Modifikasi Teori Afnan Saufi & Jim Brown 14 Maret 2024
+
+- MA Jim Brown lebih valid menyatakan trend.
+- MACD H1 Afnan Saufi kurang valid, cek juga H4.
+
+<hr/>
