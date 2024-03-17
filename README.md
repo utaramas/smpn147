@@ -438,10 +438,10 @@ pusing2 setup yg sama juga hari2 😘
 
 ### GBPUSD
 
-1. D1 Reentry Buy
-2. H4 Extreme No Momentum
-3. H1 MHV Buy
-4. m15 Double Extreme Buy
+- D1 Reentry Buy
+- H4 Extreme No Momentum
+- H1 MHV Buy
+- m15 Double Extreme Buy
 
 [https://www.facebook.com/BlackOutFX/videos/2067635680229243](https://www.facebook.com/BlackOutFX/videos/2067635680229243)
 
