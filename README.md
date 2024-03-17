@@ -426,9 +426,9 @@ Sambungan reentry daily,,semoga...momentum m15 untuk yakinkan diri entry.
 
 ### Daily = reentry sell
 
-1. Daily = reentry sell
-2. h4 = extreme
-3. h1 = mhv
+- Daily = reentry sell
+- h4 = extreme
+- h1 = mhv
 
 pusing2 setup yg sama juga hari2 😘
 
