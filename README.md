@@ -771,26 +771,26 @@ H1 Mhv buy
 ### Peserta Anonim - BBMA OA Indonesia - 28 Feb 2024
 
 Sell
-H1 TF2 Ext/MHV Sell & Stoch 935 OB.
-H4 TF1 Re-entry MA5/10 Hi, RSI 13 dibawah garis 50.
-M15 TF3 Ext/MHV, jika ada CSAK atau CSM.
+- H1 TF2 Ext/MHV Sell & Stoch 935 OB.
+- H4 TF1 Re-entry MA5/10 Hi, RSI 13 dibawah garis 50.
+- M15 TF3 Ext/MHV, jika ada CSAK atau CSM.
 
 Note
-H1 TF2 MHV yang lebih tinggi terjadi OB, di TF1 terjadi Ext.
-H1 TF2 MHV Overbought.
+- H1 TF2 MHV yang lebih tinggi terjadi OB, di TF1 terjadi Ext.
+- H1 TF2 MHV Overbought.
 
 Buy
-H1 TF2 Ext/MHV Buy & Stoch 935 OS.
-H4 TF2 Re-entry MA5/10 Lo, RSI 13 diatas garis 50.
-M15 TF3 Ext/MHV jika ada CSAK atau CSM?
+- H1 TF2 Ext/MHV Buy & Stoch 935 OS.
+- H4 TF2 Re-entry MA5/10 Lo, RSI 13 diatas garis 50.
+- M15 TF3 Ext/MHV jika ada CSAK atau CSM?
 
-TF2 Reject Top BB/ Reject MA50?.
-TF3 Harga akan retest ke Ext sebelumnya, jadi akan terjadi Double Ext.
-TF3 Harga akan retest HiLO Ext sebelumnya, MHV.
+- TF2 Reject Top BB/ Reject MA50?.
+- TF3 Harga akan retest ke Ext sebelumnya, jadi akan terjadi Double Ext.
+- TF3 Harga akan retest HiLO Ext sebelumnya, MHV.
 
-TF3 atau TF4 akan terjadi Divergence di Awesome Oscillator.
+- TF3 atau TF4 akan terjadi Divergence di Awesome Oscillator.
 
-Bisa berlaku untuk D1-H4-H1, lihat divergence di M30.
+- Bisa berlaku untuk D1-H4-H1, lihat divergence di M30.
 
 <hr/>
 
