@@ -734,20 +734,20 @@ H1 CS melepasi cloud.
 
 ### Market Hilang Volume - 25 Feb 2024
 
-Mhv di H4.
-Double Ext di H1.
-Double Top/ MHV di H1.
-Divergence AO di H1.
+- Mhv di H4.
+- Double Ext di H1.
+- Double Top/ MHV di H1.
+- Divergence AO di H1.
 
-Tunggu CSA -> Entry di RE.
-Kebiasaannya body tertinggi MHV akan di retest kembali. Entry saat CS retest.
+- Tunggu CSA -> Entry di RE.
+- Kebiasaannya body tertinggi MHV akan di retest kembali. Entry saat CS retest.
 
 =================
 
-H4 berlaku Ext.
-Tunggu 2 cs menjadi MHV.
-H1 berlaku Ext.
-11 cs menjadi MHV.
+- H4 berlaku Ext.
+- Tunggu 2 cs menjadi MHV.
+- H1 berlaku Ext.
+- 11 cs menjadi MHV.
 
 =================
 
@@ -755,16 +755,16 @@ H1 MHV valid, maka M15 buat EXT.
 
 =================
 
-MHV - 1 TF dibawahnya Ext.
-CSAK - 1 TF dibawahnya Mmt.
-RE - 1 TF dibawahnya reject MA50/ Top Low BB
+- MHV - 1 TF dibawahnya Ext.
+- CSAK - 1 TF dibawahnya Mmt.
+- RE - 1 TF dibawahnya reject MA50/ Top Low BB
 
 ==================
 
 Hazlan Hashim
 
-H4 Mmt buy, Re-entry buy.
-H1 Mhv buy
+- H4 Mmt buy, Re-entry buy.
+- H1 Mhv buy
 
 <hr/>
 
