@@ -535,10 +535,10 @@ Izo
 
 Assalamualaikum..ramai yg PM tnya setup ape sy guna dlm trading style sy..ok..mlm ni sy nk share salah 1 dari setup yg sy guna..Setup ReEntry ARAH KUKUH H4(Time Frame H4)..setup ni boleh guna kat mane2 pair..contoh gambar di pair EURUSD.
 
-1. tggu CSAK Buy/Sell muncul di H4(kene byk bsabar😉)
-2. ada arah..ada reentry..(sabar la tggu reentry..reentry la ditempat reentry= MA high/Low H4)
-3. TP1 adalah pada low/top BB(jangan nk harapkan ada momentum..nak tau adanya momentum atau tidak perlu refer TF BESAR
-4. xde momentum market reverse..sbb tu sy suruh tp di low/top bb..xkn nk tggu candle reverse baru nk TP..kurang la pip profit nnt..tu pun kalau sempat..silap2 reverse trus kne BE atau SL..kan rugi..ape2hal TP je di bb..😉
+- tggu CSAK Buy/Sell muncul di H4(kene byk bsabar😉)
+- ada arah..ada reentry..(sabar la tggu reentry..reentry la ditempat reentry= MA high/Low H4)
+- TP1 adalah pada low/top BB (jangan nk harapkan ada momentum..nak tau adanya momentum atau tidak perlu refer TF BESAR)
+- xde momentum market reverse..sbb tu sy suruh tp di low/top bb..xkn nk tggu candle reverse baru nk TP..kurang la pip profit nnt..tu pun kalau sempat..silap2 reverse trus kne BE atau SL..kan rugi..ape2hal TP je di bb..😉
 
 Ok untuk contoh dlm gmbr adalah Setup CS ARAH KUKUH BUY H4 EURUSD..utk dptkn highest/lowest price utk buy/sell kene guna MTF(Multi Time Frame).
 
@@ -547,7 +547,8 @@ Untuk entry buy..
 
 - tggu price di kawasan LOW BB H1
 - dan PASTIKAN M15 EXTREME ATAU MHV
-*Candle smpai je low bb standby je utk buy..dan tgk m15 ext..kalau blum ext..jgn masuk lg..tggu ext bru masuk buy..kalau nk masuk trus di BB pun boleh jugak..xde mslh..
+
+*Candle smpai je low bb standby je utk buy..dan tgk m15 ext..kalau blum ext..jgn masuk lg..tggu ext bru masuk buy..kalau nk masuk trus di BB pun boleh jugak..xde mslh..*
 
 ***JIKA H1 buat MOMENTUM SELL SILA CUTLOSS TERUS TANPA SEGAN SILU..INI TANDA PERUBAHAN TREND***
 
@@ -565,10 +566,11 @@ Izo
 ### Korg yg baru blaja ni jgn la malas backtest - 28 Januari 2024
 
 aku sndri pun masih buat backtest lg tau~~~x ckp korg malas..cuma ckp jgn malas..tu je..jgn la mrh..😂
-1. Reentry Sell H4
-2. H4 @ MA HIGH
-3. H1 @ Top BB
-4. M15 EXT
+
+- Reentry Sell H4
+- H4 @ MA HIGH
+- H1 @ Top BB
+- M15 EXT
 
 Izo
 
