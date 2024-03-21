@@ -676,11 +676,13 @@ UNTUK REENTRY DAILY..biasenye sy guna D1 H4 dan H1..tp kali ni sy guna 2..iaitu 
 
 Basic BBMA..reentry sell di MA HIGH..reentry BUY di MA LOW
 Ada beberapa paten yg terjadi pada H4
--rejection low/top BB
--rejection EMA50
--extreme BB mngembang
--extreme BB mendatar
-Entry point sy di MA@BB@Extreme
+- rejection low/top BB
+- rejection EMA50
+- extreme BB mngembang
+- extreme BB mendatar
+
+Entry point sy di MA@BB@Extreme.
+
 Ni la cara sy entry pucuk akar..100% guna bbma..xde indi lain..sekian..semoga bermanfaat..
 
 ***Sila Backtest..marking marking marking, kaji dan fahamkan..😘***
