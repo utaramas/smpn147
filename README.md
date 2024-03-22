@@ -402,11 +402,11 @@ Analisa BBMA Ala KG - Anggara.
 
 <hr/>
 
-### Belajar analisa swing.. sesuai petunjuk cikgu Umin Mukromin
+### Ext B dan Diamond.. sesuai petunjuk cikgu Umin Mukromin
 
-Weekly.. berlaku setup reentry
-Daily.. berlaku setup ext b dan diamond.. colek om Nay Zooe
-H4 .. ext lanjut proses mhv..
+- Weekly.. berlaku setup reentry
+- Daily.. berlaku setup ext b dan diamond.. colek om Nay Zooe
+- H4 .. ext lanjut proses mhv..
 
 trading plan.. mencari peluang sell, khususnya menunggu setup mhv sempurna dan csa di h4.. op sell saat reentry setelah csa terbentuk.. 
 
