@@ -846,3 +846,13 @@ RRR sekitar 1 : 2 (Risk 0.5%, Reward 1%) #InsyaAlah
 - MACD H1 Afnan Saufi kurang valid, cek juga H4.
 
 <hr/>
+
+### Mata SenjaFX
+
+- Reentry setelah Momentum di H4.
+- Ext & Reject  MA50 di H1, Jika di H1 tidak ada Ext --> turun ke M30
+- Ada Dominan Break atau Initial Break Pecah CB/ Break MA50/ CSA/ CSAK di M5.
+
+- Dominan Break/ Initial Break terbaik di area Ext/MHV.
+
+<hr/>
