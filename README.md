@@ -676,6 +676,7 @@ UNTUK REENTRY DAILY..biasenye sy guna D1 H4 dan H1..tp kali ni sy guna 2..iaitu 
 
 Basic BBMA..reentry sell di MA HIGH..reentry BUY di MA LOW
 Ada beberapa paten yg terjadi pada H4
+
 - rejection low/top BB
 - rejection EMA50
 - extreme BB mngembang
