@@ -857,3 +857,12 @@ RRR sekitar 1 : 2 (Risk 0.5%, Reward 1%) #InsyaAlah
 - Dominan Break/ Initial Break terbaik di area Ext/MHV.
 
 <hr/>
+
+### Pola 3in1 TrapperFX Rais Muhamad
+
+- Area Reentry.
+- Area Ext.
+- Area MHV.
+- Pertemuan MA50 dengan MA5/10.
+
+<hr/>
