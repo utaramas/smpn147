@@ -866,3 +866,17 @@ RRR sekitar 1 : 2 (Risk 0.5%, Reward 1%) #InsyaAlah
 - Pertemuan MA50 dengan MA5/10.
 
 <hr/>
+
+### Pola 121 TrapperFX Rais Muhamad 28-03-2024
+
+- Area CSAK/CSA.
+- Area Momentum berterusan pergantian tren MACD melewati garis 0.
+- Area EXT.
+- Area Reentry.
+- Area Sideway.
+- Area Reject MA50.
+- Area Momentum.
+- Area MHV selepas Ext & Area MHV reject MA50.
+
+<hr/>
+
